@@ -25,3 +25,22 @@ Technology stack used:
 We used the Scrum Agile methodology to organize our efforts during development. The initial production release was completed after 2 months.
 
 The product currently in active development.
+
+
+# Captune App
+
+Mobile Development amazon-ec2, amazon-s3, c#, objective-c
+My client wanted a back-end with his mobile app similar to small social network app, with activity feed, claps (aka Like on facebook), folowers etc.
+
+I built back-end on .Net and deploy on AWS
+
+My responsibilities:
+- Design Domain and back-end architecture
+- Communicate with a mobile developers
+
+Technology stack used:
+- ASP.NET Web Api
+- more
+
+https://captune.net/
+
