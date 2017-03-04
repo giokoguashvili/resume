@@ -9,7 +9,7 @@ I am experienced in windows and web development with Microsoft technologies usin
 Web Development entity-framwork, windows-azure
 Our clients wanted a ticketing system with maps
 
-I built maps using SVG and Javascript and back-end on C# with my team members
+I built maps using SVG and Javascript and back-end on C# with my team members.
 
 My responsibilities:
 - Selecting which technology stack to be used
@@ -32,7 +32,7 @@ https://tkt.ge
 Mobile Development amazon-ec2, amazon-s3, c#, objective-c
 My client wanted a back-end with his mobile app similar to small social network app, with activity feed, claps (aka Like on facebook), folowers etc.
 
-I built back-end on .Net and deploy on AWS
+I built back-end on .Net and deploy on AWS.
 
 My responsibilities:
 - Design Domain and back-end architecture
