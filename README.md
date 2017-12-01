@@ -6,6 +6,11 @@ Email: kogo27@gmail.com
 
 [Github](https://github.com/kogoia), [Stakoverflow](https://stackoverflow.com/users/5200896/kogoia), [Medium](https://medium.com/@kogoia), [Twitter](https://twitter.com/kogo1a), [Linkedin](www.linkedin.com/in/giorgi-koguashvili)
 
+# Experience:
+
+ - Continuous Integration (CI), Continuous Delivery (CD), Continuous Deployment (CD)
+ - Message Driven Architecture 
+
 # Programming Skills:
 
  - **Paradigms**: Object Oriented, Functional, Procedural, Declarative, Imperative
@@ -26,3 +31,7 @@ Email: kogo27@gmail.com
 # Administration Tools:
 
  - **Operating Systems:** Windows, Windows Server 2012, 2016, 1709, Ubuntu
+ 
+ 
+# Books:
+
