@@ -29,7 +29,7 @@ Email: kogo27@gmail.com
 # DevOps:
 
  - **Cloud Solutins:** Azure, AWS, Travis CI, Appveyor 
- - **Configuration Managment Tools**: Ansible, Bash Scripting, Powershel Scripts
+ - **Configuration Managment Tools**: Ansible, Bash Scripting, PowerShell Scripts
  - **Tools:** Docker, Docker Swarm, Vagrant, Packer, 
  
 # Administration Tools:
