@@ -36,7 +36,13 @@ Email: kogo27@gmail.com
 
  - **Operating Systems:** Windows, Windows Server 2012, 2016, 1709, Ubuntu
  - Hyper-V, Virtual Box, VMWare ESXi, Active Directory, DNS Configuratin
- 
+
+
+# Competitive Programming:
+
+- Algorithms: 
+- Contests: 
+
 # Favorite Books:
 
  - [Domain-Driven Design](https://g.co/kgs/1rKnxq) - Book by Eric J. Evans
