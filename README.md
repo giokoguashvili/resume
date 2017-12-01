@@ -13,18 +13,10 @@ Email: kogo27@gmail.com
 - Improve the ability to transfer knowledge to perfection
 - Create own company
 
-# Want to learn
-
- - Deep Learning and Neural Networks
- - Erlang Programming Language
- - Use Actor Model and Reactive Programming over designing business domain
-
-
 # Experience
 
  - Continuous Integration (CI), Continuous Delivery (CD), Continuous Deployment (CD)
  - Message Driven Architecture 
-
  
 # Programming Skills
 
@@ -56,6 +48,17 @@ Email: kogo27@gmail.com
 
 - Algorithms: 
 - Contests: 
+
+# Interests
+
+- Mathematics
+- Cryptography
+
+# Want to learn
+
+ - Deep Learning and Neural Networks
+ - Erlang Programming Language
+ - Use Actor Model and Reactive Programming over designing business domain
 
 # Sources of Knowledges:
  
