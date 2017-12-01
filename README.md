@@ -16,7 +16,7 @@ Email: kogo27@gmail.com
 
  - **Paradigms**: Object Oriented, Functional, Procedural, Declarative, Imperative
  - **Languages:** C#, F#, Haskell, Javascript, TSQL
- - **Frameworks:** .NET Framewok, .NET Core, ReactJS, Redux,  
+ - **Frameworks:** .NET Framewok, .NET Core, ReactJS, Redux, Reactive.NET/JS
  - **Tools:** Git, 
  
 # Sofrware Enginering / Development:
@@ -44,3 +44,19 @@ Email: kogo27@gmail.com
  - [Building Microservices: Designing Fine-Grained Systems](https://g.co/kgs/EkbKx1) - Book by Sam Newman
  - [Computer Networks](https://g.co/kgs/dksDy8) - Book by Andrew S. Tanenbaum
  - [The Clean Coder: A Code of Conduct for Professional Programmers](https://g.co/kgs/C8M5Fq) - Book by Robert Cecil Martin
+ 
+ # Peoples:
+ 
+ - 
+ 
+ # Sources of Reading:
+ 
+ - [Habrahabr](https://habrahabr.ru/)
+ - [4PDA](http://4pda.ru/)
+ - [3DNews](https://3dnews.ru/)
+ - [Microsoft Developer Tools Blogs](https://blogs.msdn.microsoft.com/developer-tools/)
+
+ # Favorite Tutorials:
+ 
+ - [Category Theory](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
+ - [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
