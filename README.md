@@ -57,13 +57,12 @@ Email: kogo27@gmail.com
 - Algorithms: 
 - Contests: 
 
-# Favorite Books
-
- - [Domain-Driven Design](https://g.co/kgs/1rKnxq) - Book by Eric J. Evans
- - [Implementing Domain-driven Design](https://g.co/kgs/HcmgUd) Book by Vaughn Vernon
- - [Building Microservices: Designing Fine-Grained Systems](https://g.co/kgs/EkbKx1) - Book by Sam Newman
- - [Computer Networks](https://g.co/kgs/dksDy8) - Book by Andrew S. Tanenbaum
- - [The Clean Coder: A Code of Conduct for Professional Programmers](https://g.co/kgs/C8M5Fq) - Book by Robert Cecil Martin
+# Sources of Knowledges:
+ 
+ - **Books:** [Domain-Driven Design](https://g.co/kgs/1rKnxq) - Book by Eric J. Evans, [Implementing Domain-driven Design](https://g.co/kgs/HcmgUd) Book by Vaughn Vernon, [Building Microservices: Designing Fine-Grained Systems](https://g.co/kgs/EkbKx1) - Book by Sam Newman, [Computer Networks](https://g.co/kgs/dksDy8) - Book by Andrew S. Tanenbaum, [The Clean Coder: A Code of Conduct for Professional Programmers](https://g.co/kgs/C8M5Fq) - Book by Robert Cecil Martin
+ - **Blogs**: [Habrahabr](https://habrahabr.ru/), [4PDA](http://4pda.ru/), [3DNews](https://3dnews.ru/), [Microsoft Developer Tools Blogs](https://blogs.msdn.microsoft.com/developer-tools/)
+ - **Tutorials:** [Category Theory](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) - youtube.com
+ - [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) - egghead.io
  
  # People I follow
  
@@ -71,14 +70,4 @@ Email: kogo27@gmail.com
  - [Kirill Mokevnin](https://twitter.com/mokevnin)
  - [Alexey Savvateev](https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%B2%D0%B2%D0%B0%D1%82%D0%B5%D0%B5%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87)
  
- # Sources of Reading
  
- - [Habrahabr](https://habrahabr.ru/)
- - [4PDA](http://4pda.ru/)
- - [3DNews](https://3dnews.ru/)
- - [Microsoft Developer Tools Blogs](https://blogs.msdn.microsoft.com/developer-tools/)
-
- # Favorite Tutorials
- 
- - [Category Theory](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) - youtube.com
- - [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) - egghead.io
