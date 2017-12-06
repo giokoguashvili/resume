@@ -2,11 +2,11 @@
 
 ### SOFTWARE ENGINEER
 
-Diving deep into Microservices, Message Driven Architecture, DevOps and Management. Main emphasis on Domain Modeling with FP and OOP.
-
 Email: kogo27@gmail.com
 
 [Github](https://github.com/kogoia), [Stakoverflow](https://stackoverflow.com/users/5200896/kogoia), [My Posts on Medium](https://medium.com/@kogoia), [Twitter](https://twitter.com/kogo1a), [Linkedin](www.linkedin.com/in/giorgi-koguashvili)
+
+Diving deep into Microservices, Message Driven Architecture, DevOps and Management. Main emphasis on Domain Modeling with FP and OOP.
 
 # Ambitions
 
