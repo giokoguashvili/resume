@@ -35,7 +35,7 @@ Main emphasis on Domain Modeling with FP and OOP.
  
 ### DevOps
 
- - **Cloud Solutins:** Azure, AWS, Travis CI, Appveyor 
+ - **Cloud Solutions:** Azure, AWS, Travis CI, Appveyor 
  - **Configuration Managment Tools**: Ansible, Bash Scripting, PowerShell Scripts
  - **Tools:** Docker, Docker Swarm, Vagrant, Packer, 
 
