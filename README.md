@@ -39,17 +39,6 @@ Diving deep into Microservices, Message Driven Architecture, DevOps and Manageme
  - **Configuration Managment Tools**: Ansible, Bash Scripting, PowerShell Scripts
  - **Tools:** Docker, Docker Swarm, Vagrant, Packer, 
  
-# Administration Tools
-
- - **Operating Systems:** Windows, Windows Server 2012, 2016, 1709, Ubuntu
- - Hyper-V, Virtual Box, VMWare ESXi, Active Directory, DNS Configuratin
-
-
-# Competitive Programming
-
-- Algorithms: 
-- Contests: 
-
 # Interests
 
 - Mathematics
