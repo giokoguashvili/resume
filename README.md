@@ -10,9 +10,9 @@ Diving deep into Microservices, Message Driven Architecture, DevOps and Manageme
 
 # Ambitions
 
-- Setup and start to publish regularly in my personal dev blog
-- Improve the ability to transfer knowledge to perfection
-- Create own company
+- Setup and start to publish regularly in my personal dev blog.
+- Improve the ability to transfer knowledge to perfection.
+- Create own IT Company.
 
 # Experience
 
