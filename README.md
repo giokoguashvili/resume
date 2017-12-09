@@ -1,6 +1,6 @@
 # Giorgi Koguashvili @kogoia
 
-### SOFTWARE ENGINEER
+### Software Developer
 
 Email: kogo27@gmail.com
 
