@@ -61,3 +61,4 @@ Diving deep into Microservices, Message Driven Architecture, DevOps and Manageme
 
 * [Category Theory](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) - youtube.com
 * [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) - egghead.io
+* ...
