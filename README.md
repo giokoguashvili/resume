@@ -1,6 +1,6 @@
 # Giorgi Koguashvili @kogoia
 
-### Software Developer
+### SOFTWARE DEVELOPER
 
 [Email](mailto:kogo27@gmail.com), [Github](https://github.com/kogoia), [Stakoverflow](https://stackoverflow.com/users/5200896/kogoia), [My Posts on Medium](https://medium.com/@kogoia), [Twitter](https://twitter.com/kogo1a), [Linkedin](www.linkedin.com/in/giorgi-koguashvili)
 
