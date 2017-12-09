@@ -11,7 +11,6 @@ Diving deep into Microservices, Message Driven Architecture, DevOps and Manageme
 # Ambitions
 
 - Setup and start to publish regularly in my personal dev blog
-- Enhance current knowledges by welcoming challenging tasks
 - Improve the ability to transfer knowledge to perfection
 - Create own company
 
