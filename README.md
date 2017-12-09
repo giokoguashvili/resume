@@ -38,11 +38,6 @@ Diving deep into Microservices, Message Driven Architecture, DevOps and Manageme
  - **Cloud Solutins:** Azure, AWS, Travis CI, Appveyor 
  - **Configuration Managment Tools**: Ansible, Bash Scripting, PowerShell Scripts
  - **Tools:** Docker, Docker Swarm, Vagrant, Packer, 
- 
-# Interests
-
-- Mathematics
-- Cryptography
 
 # Want to learn
 
@@ -50,8 +45,19 @@ Diving deep into Microservices, Message Driven Architecture, DevOps and Manageme
  - Erlang Programming Language
  - Use Actor Model and Reactive Programming over designing business domain
 
-# Sources of Knowledges:
+# Sources of Knowledges
  
- - **Books:** [Domain-Driven Design](https://g.co/kgs/1rKnxq) - Book by Eric J. Evans, [Implementing Domain-driven Design](https://g.co/kgs/HcmgUd) Book by Vaughn Vernon, [Building Microservices: Designing Fine-Grained Systems](https://g.co/kgs/EkbKx1) - Book by Sam Newman, [Computer Networks](https://g.co/kgs/dksDy8) - Book by Andrew S. Tanenbaum, [The Clean Coder: A Code of Conduct for Professional Programmers](https://g.co/kgs/C8M5Fq) - Book by Robert Cecil Martin
- - **Tutorials:** [Category Theory](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) - youtube.com
- - [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) - egghead.io
+### **Books:** 
+
+* [DDD Blue Book](https://g.co/kgs/1rKnxq) - by Eric Evans
+* [DDD Red Book](https://g.co/kgs/HcmgUd) - by Vaughn Vernon 
+* [Building Microservices](https://g.co/kgs/EkbKx1) - by Sam Newman 
+* [Computer Networks](https://g.co/kgs/dksDy8) - by Andrew Tanenbaum
+* [The Clean Coder](https://g.co/kgs/C8M5Fq) - by Uncle Bob
+* [Elegant Objects Vol. 1/2](https://g.co/kgs/8oChQa) - by Yegor Bugaenko
+* ...
+
+### **Tutorials:** 
+
+* [Category Theory](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) - youtube.com
+* [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) - egghead.io
