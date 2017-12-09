@@ -19,15 +19,12 @@ Main emphasis on Domain Modeling with FP and OOP.
  - Continuous Integration (CI), Continuous Delivery (CD), Continuous Deployment (CD)
  - Message Driven Architecture 
  
-### Programming Skills
+### Sofrware Enginering / Development Skills
 
  - **Paradigms**: Object Oriented, Functional, Procedural, Declarative, Imperative
  - **Languages:** C#, F#, Haskell, Javascript, TSQL
  - **Frameworks:** .NET (MVC/WebApi/SignalR/EF/ADO.NET), ReactJS/Redux/Saga, ReactiveX
  - **Tools:** Git, 
- 
-### Sofrware Enginering / Development
-
  - **Management:** Task Oriented Managment, Micro-Managment, Agile, Scrum, GTD and Self Management
  - **Also:** Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing (ES)
  - Test Driven Development (TDD)
