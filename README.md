@@ -8,44 +8,44 @@ Diving deep into Microservices, Message Driven Architecture, DevOps and Manageme
 
 Main emphasis on Domain Modeling with FP and OOP.
 
-# Ambitions
+## Ambitions
 
 - Setup and start to publish regularly in my personal dev blog.
 - Improve the ability to transfer knowledge to perfection.
 - Create own IT Company.
 
-# Experience
+## Experience
 
  - Continuous Integration (CI), Continuous Delivery (CD), Continuous Deployment (CD)
  - Message Driven Architecture 
  
-# Programming Skills
+## Programming Skills
 
  - **Paradigms**: Object Oriented, Functional, Procedural, Declarative, Imperative
  - **Languages:** C#, F#, Haskell, Javascript, TSQL
  - **Frameworks:** .NET (MVC/WebApi/SignalR/EF/ADO.NET), ReactJS/Redux/Saga, ReactiveX
  - **Tools:** Git, 
  
-# Sofrware Enginering / Development
+## Sofrware Enginering / Development
 
  - **Management:** Task Oriented Managment, Micro-Managment, Agile, Scrum, GTD and Self Management
  - **Also:** Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing (ES)
  - Test Driven Development (TDD)
  - OAuth 2.0 
  
-# DevOps
+## DevOps
 
  - **Cloud Solutins:** Azure, AWS, Travis CI, Appveyor 
  - **Configuration Managment Tools**: Ansible, Bash Scripting, PowerShell Scripts
  - **Tools:** Docker, Docker Swarm, Vagrant, Packer, 
 
-# Want to learn
+## Want to learn
 
  - Deep Learning and Neural Networks
  - Erlang Programming Language
  - Use Actor Model and Reactive Programming over designing business domain
 
-# Sources of Knowledges
+## Sources of Knowledges
  
 ### **Books:** 
 
