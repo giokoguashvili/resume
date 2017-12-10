@@ -28,7 +28,7 @@ Main emphasis on Domain Modeling with FP and OOP.
  - **Management:** Task Oriented Managment, Micro-Managment, Agile, Scrum, GTD and Self Management
  - **Also:** Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing (ES)
  - Test Driven Development (TDD)
- - OAuth 2.0 
+ - JWT/OAuth 2.0 
  
 ### DevOps
 
