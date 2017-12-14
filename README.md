@@ -13,11 +13,12 @@ Diving deep into Microservices, Message Driven Architecture, DevOps and Manageme
  
 #### Sofrware Enginering/Development/Managment Skills
 
- - **Paradigms**: Object Oriented, Functional, Procedural, Declarative, Imperative
- - **Languages:** C#, F#, Haskell, Javascript, TSQL
- - **Frameworks:** .NET (MVC/WebApi/Identity/SignalR/EF/ADO.NET/), ReactJS/Redux/Saga, ReactiveX, Akka.Net
+ - **Paradigms**: OOP, FP, Procedural, Declarative, Imperative
+ - **Languages:** C#, F#, Haskell, Javascript (ES6), T-SQL
+ - **Frameworks:** .NET (MVC/WebApi/Identity/SignalR/EF/ADO.NET/TPL/LINQ/Async), Dapper, ReactJS/Redux/Saga, ReactiveX, Akka.Net
  - **Management:** Task Oriented Managment, Micro-Managment, Agile, Scrum, GTD and Self Management
- - **Also:** DDD, CQRS, Event Sourcing, TDD, JWT/OAuth 2.0 
+ - **asd:** MSSQL, ElaticSearch, Redis, 
+ - **Also:** DDD, CQRS, Event Sourcing, TDD, JWT, OAuth 2.0, 
  - **Cloud Solutions:** Azure, AWS, Travis CI, Appveyor 
  - **Configuration Managment Tools**: Ansible, Bash Scripting, PowerShell Scripts
  - **Tools:** Docker, Docker Swarm, Vagrant, Packer, Git, TFS, 
