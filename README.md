@@ -17,11 +17,12 @@ Diving deep into Microservices, Message Driven Architecture, DevOps and Manageme
  - **Languages:** C#, F#, Haskell, Javascript (ES6), T-SQL
  - **Frameworks:** .NET (MVC/WebApi/Identity/SignalR/EF Code First/ADO.NET/TPL/LINQ/Async), Dapper, ReactJS/Redux/Saga, ReactiveX, Akka.Net
  - **Management:** Task Oriented Managment, Micro-Managment, Agile, Scrum, GTD and Self Management
- - **asd:** MSSQL, ElaticSearch, Redis, 
+ - **asd:** MSSQL, ElasticSearch, Redis, 
  - **Also:** DDD, CQRS, Event Sourcing, TDD, JWT, OAuth 2.0, 
- - **Cloud Solutions:** Azure, AWS, Travis CI, Appveyor 
  - **Configuration Managment Tools**: Ansible, Bash Scripting, PowerShell Scripts
- - **Tools:** Docker, Docker Swarm, Vagrant, Packer, Git, TFS, 
+ - **Tools:** Docker, Docker Swarm, Vagrant, Packer, Git, JIRA,
+ - **Developer Tools:** Vim/Tmux, Visual Studio, JetBrains Tools, VS Code, 
+ - **DevOps**: Azure, AWS, TFS, Jenkins, Travis CI, Appveyor  
 
 #### Want to learn
 
