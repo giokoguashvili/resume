@@ -4,13 +4,7 @@
 
 [Email](mailto:kogo27@gmail.com), [Github](https://github.com/kogoia), [Stakoverflow](https://stackoverflow.com/users/5200896/kogoia), [My Posts on Medium](https://medium.com/@kogoia), [Twitter](https://twitter.com/kogo1a), [Linkedin](https://www.linkedin.com/in/giorgi-koguashvili)
 
-Diving deep into Microservices, Message Driven Architecture, DevOps and Management. Main emphasis on Domain Modeling with FP and OOP.
-
-#### Ambitions
-
-- Setup and start to publish regularly in my personal dev blog.
-- Improve the ability to transfer knowledge to perfection.
-- Create own IT Company.
+Diving deep into Microservices, Message Driven Architecture, DevOps and Management. Main emphasis on Domain Modeling with FP and OOP. Also I have ambitions: setup and start to publish regularly in my personal dev blog, improve the ability to transfer knowledge to perfection and create own IT Company.
 
 #### Experience
 
