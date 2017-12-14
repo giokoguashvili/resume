@@ -41,8 +41,6 @@ Main emphasis on Domain Modeling with FP and OOP.
  - Deep Learning and Neural Networks
  - Erlang Programming Language
  - Use Actor Model and Reactive Programming over designing business domain
-
-#### Sources of Knowledges:
  
 #### Books 
 
