@@ -15,7 +15,7 @@ Diving deep into Microservices, Message Driven Architecture, DevOps and Manageme
 
  - **Paradigms**: OOP, FP, Procedural, Declarative, Imperative
  - **Languages:** C#, F#, Haskell, Javascript (ES6), T-SQL
- - **Frameworks:** .NET (MVC/WebApi/Identity/SignalR/EF/ADO.NET/TPL/LINQ/Async), Dapper, ReactJS/Redux/Saga, ReactiveX, Akka.Net
+ - **Frameworks:** .NET (MVC/WebApi/Identity/SignalR/EF Code First/ADO.NET/TPL/LINQ/Async), Dapper, ReactJS/Redux/Saga, ReactiveX, Akka.Net
  - **Management:** Task Oriented Managment, Micro-Managment, Agile, Scrum, GTD and Self Management
  - **asd:** MSSQL, ElaticSearch, Redis, 
  - **Also:** DDD, CQRS, Event Sourcing, TDD, JWT, OAuth 2.0, 
