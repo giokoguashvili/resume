@@ -1,6 +1,6 @@
 # Giorgi Koguashvili @kogoia
 
-### SOFTWARE DEVELOPER
+#### SOFTWARE DEVELOPER
 
 [Email](mailto:kogo27@gmail.com), [Github](https://github.com/kogoia), [Stakoverflow](https://stackoverflow.com/users/5200896/kogoia), [My Posts on Medium](https://medium.com/@kogoia), [Twitter](https://twitter.com/kogo1a), [Linkedin](https://www.linkedin.com/in/giorgi-koguashvili)
 
@@ -8,18 +8,18 @@ Diving deep into Microservices, Message Driven Architecture, DevOps and Manageme
 
 Main emphasis on Domain Modeling with FP and OOP.
 
-### Ambitions
+#### Ambitions
 
 - Setup and start to publish regularly in my personal dev blog.
 - Improve the ability to transfer knowledge to perfection.
 - Create own IT Company.
 
-### Experience
+#### Experience
 
  - Continuous Integration (CI), Continuous Delivery (CD), Continuous Deployment (CD)
  - Message Driven Architecture 
  
-### Sofrware Enginering / Development Skills
+#### Sofrware Enginering / Development Skills
 
  - **Paradigms**: Object Oriented, Functional, Procedural, Declarative, Imperative
  - **Languages:** C#, F#, Haskell, Javascript, TSQL
@@ -30,19 +30,19 @@ Main emphasis on Domain Modeling with FP and OOP.
  - Test Driven Development (TDD)
  - JWT/OAuth 2.0 
  
-### DevOps
+#### DevOps
 
  - **Cloud Solutions:** Azure, AWS, Travis CI, Appveyor 
  - **Configuration Managment Tools**: Ansible, Bash Scripting, PowerShell Scripts
  - **Tools:** Docker, Docker Swarm, Vagrant, Packer, 
 
-### Want to learn
+#### Want to learn
 
  - Deep Learning and Neural Networks
  - Erlang Programming Language
  - Use Actor Model and Reactive Programming over designing business domain
 
-### Sources of Knowledges:
+#### Sources of Knowledges:
  
 #### Books 
 
@@ -54,7 +54,7 @@ Main emphasis on Domain Modeling with FP and OOP.
 * [Elegant Objects Vol. 1/2](https://g.co/kgs/8oChQa) - by Yegor Bugaenko
 * ...
 
-#### Tutorials 
+###### Tutorials 
 
 * [Category Theory](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) - youtube.com
 * [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) - egghead.io
