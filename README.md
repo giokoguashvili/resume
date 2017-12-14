@@ -11,7 +11,7 @@ Diving deep into Microservices, Message Driven Architecture, DevOps and Manageme
  - Continuous Integration (CI), Continuous Delivery (CD), Continuous Deployment (CD)
  - Message Driven Architecture 
  
-#### Sofrware Enginering / Development Skills
+#### Sofrware Enginering/Development/Managment Skills
 
  - **Paradigms**: Object Oriented, Functional, Procedural, Declarative, Imperative
  - **Languages:** C#, F#, Haskell, Javascript, TSQL
@@ -21,9 +21,6 @@ Diving deep into Microservices, Message Driven Architecture, DevOps and Manageme
  - **Also:** Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing (ES)
  - Test Driven Development (TDD)
  - JWT/OAuth 2.0 
- 
-#### DevOps
-
  - **Cloud Solutions:** Azure, AWS, Travis CI, Appveyor 
  - **Configuration Managment Tools**: Ansible, Bash Scripting, PowerShell Scripts
  - **Tools:** Docker, Docker Swarm, Vagrant, Packer, 
