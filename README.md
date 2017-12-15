@@ -17,18 +17,18 @@ Diving deep into Microservices, Message Driven Architecture, DevOps and Manageme
  - **Languages:** C#, F#, Haskell, Javascript (ES6), T-SQL
  - **Frameworks:** .NET (MVC/WebApi/Identity/SignalR/EF Code First/ADO.NET/TPL/LINQ/Async), Dapper, ReactJS/Redux/Saga, ReactiveX, Akka.Net
  - **Management:** Task Oriented Managment, Micro-Managment, Agile, Scrum, GTD and Self Management
- - **asd:** MSSQL, ElasticSearch, Redis, 
- - **Also:** DDD, CQRS, Event Sourcing, TDD, JWT, OAuth 2.0, 
+ - **Knowledges:** DDD, CQRS, Event Sourcing, TDD, JWT, OAuth 2.0
  - **Configuration Managment Tools**: Ansible, Bash Scripting, PowerShell Scripts
- - **Tools:** Docker, Docker Swarm, Vagrant, Packer, Git, JIRA,
- - **Developer Tools:** Vim/Tmux, Visual Studio, JetBrains Tools, VS Code, 
+ - **Tools:** MSSQL, ElasticSearch, Redis, Docker, Docker Swarm, Vagrant, Packer, Git, JIRA
+ - **Developer Tools:** Vim/Tmux, Visual Studio, JetBrains Tools, VS Code
  - **DevOps**: Azure, AWS, TFS, Jenkins, Travis CI, Appveyor  
 
 #### Want to learn
 
  - Deep Learning and Neural Networks
- - Erlang Programming Language
- - Use Actor Model and Reactive Programming over designing business domain
+ - Blockchain / Cryptography
+ - Distributed Computing with Erlang Programming Language 
+ - Use Actor Model with Reactive Programming over designing business domain
  
 #### Favorite Books & Tutorials
 
