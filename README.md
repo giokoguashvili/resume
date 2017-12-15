@@ -6,11 +6,6 @@
 
 Diving deep into Microservices, Message Driven Architecture, DevOps and Management. Main emphasis on Domain Modeling with FP and OOP. Also I have ambitions: start to publish regularly in my personal dev blog, improve the ability to transfer knowledge to perfection and create own IT Company.
 
-#### Experience
-
- - Continuous Integration (CI), Continuous Delivery (CD), Continuous Deployment (CD)
- - Message Driven Architecture 
- 
 #### Sofrware Enginering/Development/Managment Skills
 
  - **Paradigms**: OOP, FP, RP - asynchronous programming paradigm, Procedural, Declarative, Imperative
@@ -18,18 +13,16 @@ Diving deep into Microservices, Message Driven Architecture, DevOps and Manageme
  - **Back-Eend:** .NET Framework (MVC/WebApi/Identity/SignalR/EF Code First/ADO.NET/TPL/LINQ/Async,CLR), .NET Core, Dapper, Rx.NET, Akka.NET
  - **Front-End:** ReactJS/Redux/Saga, Babel, Gulp, Grunt, Webpack, Flow, Ramda, Lodash
  - **Management:** Task Oriented Managment, Micro-Managment, Agile, Scrum, GTD and Self Management
- - **Knowledges:**  Design & Architectural Patterns, DDD, CQRS, Event Sourcing, TDD, JWT, OAuth 2.0
+ - **Knowledges:**  Design & Architectural Patterns, DDD, CQRS, Event Sourcing, Message Driven Architecture, TDD, JWT, OAuth 2.0
  - **Configuration Managment Tools**: Ansible, PowerShell, Bash Scripting
  - **Tools:** Docker, Docker Swarm, ElasticSearch, Redis, MSSQL, Git, JIRA
  - **Developer Tools:** Vim/Tmux, Visual Studio, Rider, JetBrains Tools (Resharper, DataGrip, dotPeek, dotCover), VS Code
- - **DevOps**: Azure, AWS, TFS, Jenkins, Travis CI, Appveyor, Vagrant, Packer, Terraform 
+ - **DevOps**: Azure, AWS, CI/CD with TFS, Jenkins, Travis CI, Appveyor, Vagrant, Packer, Terraform 
 
 #### Want to learn
 
- - Deep Learning and Neural Networks
- - Blockchain
+ - Neural Networks and Deep Learning
  - Distributed Computing with Erlang Programming Language 
- - Use Actor Model and Reactive Programming over designing business domain
  
 #### Favorite Books & Tutorials
 
