@@ -13,15 +13,15 @@ Diving deep into Microservices, Message Driven Architecture, DevOps and Manageme
  
 #### Sofrware Enginering/Development/Managment Skills
 
- - **Paradigms**: OOP, FP, Procedural, Declarative, Imperative
+ - **Paradigms**: OOP, FP, RP - asynchronous programming paradigm, Procedural, Declarative, Imperative
  - **Languages:** C#, F#, Haskell, Javascript (ES6), T-SQL
  - **Frameworks:** .NET (MVC/WebApi/Identity/SignalR/EF Code First/ADO.NET/TPL/LINQ/Async), Dapper, ReactJS/Redux/Saga, ReactiveX, Akka.Net
  - **Management:** Task Oriented Managment, Micro-Managment, Agile, Scrum, GTD and Self Management
- - **Knowledges:** DDD, CQRS, Event Sourcing, TDD, JWT, OAuth 2.0
+ - **Knowledges:**  Design & Architectural Patterns, DDD, CQRS, Event Sourcing, TDD, JWT, OAuth 2.0
  - **Configuration Managment Tools**: Ansible, Bash Scripting, PowerShell Scripts
- - **Tools:** MSSQL, ElasticSearch, Redis, Docker, Docker Swarm, Vagrant, Packer, Git, JIRA
- - **Developer Tools:** Vim/Tmux, Visual Studio, JetBrains Tools, VS Code
- - **DevOps**: Azure, AWS, TFS, Jenkins, Travis CI, Appveyor  
+ - **Tools:** Docker, Docker Swarm, ElasticSearch, Redis, MSSQL, Git, JIRA
+ - **Developer Tools:** Vim/Tmux, Visual Studio, Rider, JetBrains Tools (Resharper, DataGrip, dotPeek, dotCover), VS Code
+ - **DevOps**: Azure, AWS, TFS, Jenkins, Travis CI, Appveyor, Vagrant, Packer, Terraform 
 
 #### Want to learn
 
