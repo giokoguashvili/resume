@@ -2,6 +2,9 @@ version: '1.0.{build}'
 build: off
 build_script:
 - ps: ./makepdf.ps1
+environment:
+  repo_token:
+    secure: repo_token
 deploy:
   release: Giorgi Koguashvili CV v$(appveyor_build_version)
   provider: GitHub
