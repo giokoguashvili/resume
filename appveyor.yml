@@ -1,16 +1,16 @@
 version: '1.0.{build}'
 build: off
 build_script:
-- ps: ./makepdf.ps1
+  - ps: ./makepdf.ps1
+artifact: 
+  - path: ./Giorgi Koguashvili CV.pdf
+    name: Giorgi Koguashvili CV.pdf
+    type: file
 deploy:
   release: Giorgi Koguashvili CV v$(appveyor_build_version)
   provider: GitHub
   auth_token:
     secure: ncJM3HR5qMzt2zDqo5Ozegff9H2liCIHqIk0qLksF4PH9/9dj1uTRttOb4RkXeyn
-artifact: 
-  - path: ./Giorgi Koguashvili CV.pdf
-    name: Giorgi Koguashvili CV.pdf
-    type: file
   on:
     branch: master                 # release from master branch only
     appveyor_repo_tag: false        # deploy on tag push only
