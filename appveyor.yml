@@ -1,3 +1,4 @@
 version: '1.0.{build}'
-test_script:
+build: off
+build_script:
 - ps: ./makepdf.ps1
