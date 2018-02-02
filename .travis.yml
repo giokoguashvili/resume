@@ -1,1 +1,3 @@
-
+language: csharp
+script:
+  - ./makepdf.sh
