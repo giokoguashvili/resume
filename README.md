@@ -13,7 +13,7 @@ Diving deep into Microservices, Message Driven Architecture, DevOps and Manageme
  - **Back-Eend:** .NET Framework (MVC/WebApi/Identity/SignalR/EF Code First/ADO.NET/TPL/LINQ/Async,CLR), .NET Core, Dapper, Rx.NET, Akka.NET
  - **Front-End:** ReactJS/Redux/Saga, Babel, Gulp, Grunt, Webpack, Flow, Ramda, Lodash
  - **Management:** Task Oriented Managment, Micro-Managment, Agile, Scrum, GTD and Self Management
- - **Knowledges:**  Design & Architectural Patterns, DDD, CQRS, Event Sourcing, Message Driven Architecture, TDD, JWT, OAuth 2.0
+ - **Knowledge:**  Design & Architectural Patterns, DDD, CQRS, Event Sourcing, Message Driven Architecture, TDD, JWT, OAuth 2.0
  - **Configuration Managment Tools**: Ansible, PowerShell, Bash Scripting
  - **Tools:** Docker, Docker Swarm, ElasticSearch, Redis, MSSQL, Git, JIRA
  - **Developer Tools:** Vim/Tmux, Visual Studio, Rider, JetBrains Tools (Resharper, DataGrip, dotPeek, dotCover), VS Code
