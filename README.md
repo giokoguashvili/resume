@@ -28,7 +28,7 @@ Diving deep into Microservices, Message Driven Architecture, DevOps and Manageme
 
 * [DDD Red Book](https://g.co/kgs/HcmgUd) - by Vaughn Vernon 
 * [Building Microservices](https://g.co/kgs/EkbKx1) - by Sam Newman 
-* [The Clean Coder](https://g.co/kgs/C8M5Fq) - by Uncle Bob
+* [The Clean Coder](https://g.co/kgs/C8M5Fq) - by Robert Cecil Martin
 * [Elegant Objects Vol. 1/2](https://g.co/kgs/8oChQa) - by Yegor Bugaenko
 * [Category Theory](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) - youtube.com
 * [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) - egghead.io
