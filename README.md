@@ -17,7 +17,7 @@ Diving deep into Microservices, Message Driven Architecture, DevOps and Manageme
  - **Knowledge:**  Design & Architectural Patterns, DDD, CQRS, Event Sourcing, Message Driven Architecture, TDD, JWT, OAuth 2.0
  - **Configuration Managment Tools**: Ansible, PowerShell, Bash Scripting
  - **Tools:** Docker, Docker Swarm, ElasticSearch, Redis, MSSQL, Git, JIRA
- - **Developer Tools:** Vim/Tmux, Visual Studio, Rider, JetBrains Tools (Resharper, DataGrip, dotPeek, dotCover), VS Code
+ - **DevTools:** Vim/Tmux, Visual Studio, Rider, Resharper, DataGrip, dotPeek, dotCover, VS Code
  - **DevOps**: Azure, AWS, CI/CD with TFS, Jenkins, Travis CI, Appveyor, Vagrant, Packer, Terraform 
 
 #### Want to learn
@@ -34,6 +34,5 @@ Diving deep into Microservices, Message Driven Architecture, DevOps and Manageme
 * [Category Theory](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) - youtube.com
 * [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) - egghead.io
 * [Functional Programming & Haskell](https://stepik.org/course/75/syllabus) (see also: [Certificate](https://stepik.org/certificate/6b271b1181c9aba4609fa53f15e0ebfcb6210087.pdf), [Solutions](https://github.com/kogoia/HaskellSamples)) - stepik.org 
-
 
 > *The latest version of resume you can see on https://github.com/kogoia/resume*
