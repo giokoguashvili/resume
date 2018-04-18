@@ -1,7 +1,8 @@
-# Giorgi Koguashvili @kogoia
+# Giorgi Koguashvili @kogoia 
 
-#### SOFTWARE DEVELOPER
+#### SOFTWARE ENGINEER
 
+*Georgia / Tbilisi / 16.06.1992* <br/>
 [Email](mailto:kogo27@gmail.com), [Github](https://github.com/kogoia), [Stakoverflow](https://stackoverflow.com/users/5200896/kogoia), [My Posts on Medium](https://medium.com/@kogoia), [Twitter](https://twitter.com/kogo1a), [Linkedin](https://www.linkedin.com/in/giorgi-koguashvili)
 
 Diving deep into Microservices, Message Driven Architecture, DevOps and Management. Main emphasis on Domain Modeling with FP and OOP. Also I have ambitions: start to publish regularly in my personal dev blog, improve the ability to transfer knowledge to perfection and create own IT Company.
