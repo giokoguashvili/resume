@@ -1,6 +1,6 @@
 $file = "README"
 $fileName = "$file.md"
-$uri = "http://www.markdowntopdf.com/app/upload"
+$uri = "https://www.markdowntopdf.com/api/v1/user/guest/files/download"
 $outputFileName = "Giorgi Koguashvili CV.pdf"
 $currentPath = Convert-Path .
 $filePath="$currentPath\$fileName"
@@ -21,6 +21,6 @@ echo $response
 
 Start-Sleep -s 1
 
-$url = "http://www.markdowntopdf.com/app/download/$($response.foldername)/$file"
+$url = "https://www.markdowntopdf.com/api/v1/user/guest/files/download/$($response.uuid)"
 echo $url
 Invoke-WebRequest -Uri $url -OutFile $outputFileName
