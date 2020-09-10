@@ -10,7 +10,7 @@ deploy:
   release: Giorgi Koguashvili CV v$(appveyor_build_version)
   provider: GitHub
   auth_token:
-    secure: ncJM3HR5qMzt2zDqo5Ozegff9H2liCIHqIk0qLksF4PH9/9dj1uTRttOb4RkXeyn
+    secure: plA0LxlHVtYwamGC3jBQofGOnRANgvwpF+rTYGMQ8w9DnY7CsGdeDeZC8YxvE9Zc
   artifact: Giorgi Koguashvili CV.pdf
   on:
     branch: master                 # release from master branch only
