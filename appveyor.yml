@@ -1,6 +1,5 @@
 version: '1.0.{build}'
 skip_tags: true
-build: off
 build_script:
   - ps: ./makepdf.ps1
 artifacts: 
