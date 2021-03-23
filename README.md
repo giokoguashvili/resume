@@ -14,12 +14,12 @@ Diving deep into Microservices, Message Driven Architecture, DevOps and Manageme
  - **Paradigms**: OOP, FP
  - **Languages:** C#, T-SQL, Javascript (ES6), F#, Haskell
  - **Knowledge:**  Design & Architectural Patterns, DDD, CQRS, Event Sourcing, Message Driven Architecture, TDD, OAuth 2.0
- - **Back-Eend:** .NET Framework (MVC/WebApi/Identity/SignalR/EF Code First/ADO.NET/TPL/LINQ/Async,CLR), .NET Core, Dapper, Rx.NET, Akka.NET
+ - **Back-Eend:** .NET Core (ASP.NET Core/Identity/SignalR/EF Core/ADO.NET/LINQ/Async), Dapper, Rx.NET, Akka.NET
  - **Front-End:** ReactJS/Redux/Saga, Gulp, Webpack, Flow, Lodash
  - **Tools:** Docker, ElasticSearch, MSSQL, Git, JIRA
  - **Configuration Managment Tools**: Ansible, PowerShell, Bash Scripting
- - **DevOps**: Azure, AWS, CI/CD with TFS, Jenkins, Travis CI, Appveyor, Vagrant
- - **DevTools:** Vim/Tmux, Visual Studio, Rider, Resharper, DataGrip, dotPeek, dotCover, VS Code
+ - **DevOps**: Azure, AWS, CI/CD, Jenkins, Travis CI, Appveyor, Vagrant
+ - **DevTools:** Vim/Tmux, Visual Studio, Rider, Resharper, DataGrip, VS Code
  - **Management:** Agile, Scrum, Kanban, Task Oriented Managment 
 
 #### Want to learn
