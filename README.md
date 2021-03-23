@@ -11,16 +11,16 @@ Diving deep into Microservices, Message Driven Architecture, DevOps and Manageme
 
 #### Sofrware Enginering/Development/Managment Skills
 
- - **Paradigms**: OOP, FP, RP - async programming paradigm, Procedural, Declarative, Imperative
- - **Languages:** C#, F#, Haskell, Javascript (ES6), T-SQL
+ - **Paradigms**: OOP, FP
+ - **Languages:** C#, T-SQL, Javascript (ES6), F#, Haskell
+ - **Knowledge:**  Design & Architectural Patterns, DDD, CQRS, Event Sourcing, Message Driven Architecture, TDD, OAuth 2.0
  - **Back-Eend:** .NET Framework (MVC/WebApi/Identity/SignalR/EF Code First/ADO.NET/TPL/LINQ/Async,CLR), .NET Core, Dapper, Rx.NET, Akka.NET
- - **Front-End:** ReactJS/Redux/Saga, Babel, Gulp, Grunt, Webpack, Flow, Ramda, Lodash
- - **Management:** Agile, Scrum, Micro-Managment, Task Oriented Managment 
- - **Knowledge:**  Design & Architectural Patterns, DDD, CQRS, Event Sourcing, Message Driven Architecture, TDD, JWT, OAuth 2.0
+ - **Front-End:** ReactJS/Redux/Saga, Gulp, Webpack, Flow, Lodash
+ - **Tools:** Docker, ElasticSearch, MSSQL, Git, JIRA
  - **Configuration Managment Tools**: Ansible, PowerShell, Bash Scripting
- - **Tools:** Docker, Docker Swarm, ElasticSearch, Redis, MSSQL, Git, JIRA
+ - **DevOps**: Azure, AWS, CI/CD with TFS, Jenkins, Travis CI, Appveyor, Vagrant
  - **DevTools:** Vim/Tmux, Visual Studio, Rider, Resharper, DataGrip, dotPeek, dotCover, VS Code
- - **DevOps**: Azure, AWS, CI/CD with TFS, Jenkins, Travis CI, Appveyor, Vagrant, Packer, Terraform 
+ - **Management:** Agile, Scrum, Kanban, Task Oriented Managment 
 
 #### Want to learn
 
