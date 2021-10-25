@@ -1,4 +1,4 @@
-# Giorgi Koguashvili @kogoia 
+# Giorgi Koguashvili @giokoguashvili 
 
 #### SOFTWARE ENGINEER
 
