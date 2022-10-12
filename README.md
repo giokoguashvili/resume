@@ -5,7 +5,7 @@
 *Georgia / Tbilisi / Tel: +995 591 64 25 64* <br/>
 [kogo27@gmail.com](mailto:kogo27@gmail.com)<br/> 
 **Experience: 7+ year** <br/>
-[Github](https://github.com/kogoia), [Stackoverflow](https://stackoverflow.com/users/5200896/kogoia), [Medium](https://medium.com/@kogoia), [Twitter](https://twitter.com/giokoguashvilli), [Linkedin](https://www.linkedin.com/in/giorgi-koguashvili)
+[Github](https://github.com/kogoia), [Stackoverflow](https://stackoverflow.com/users/5200896/giokoguashvili), [Medium](https://medium.com/@kogoia), [Twitter](https://twitter.com/giokoguashvilli)
 
 Diving deep into Microservices, Message Driven Architecture, DevOps and Management. Main emphasis on Domain Modeling with FP and OOP. Also I have ambitions: start to publish regularly in my personal dev blog, improve the ability to transfer knowledge to perfection and create own IT Company.
 
