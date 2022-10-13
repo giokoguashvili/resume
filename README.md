@@ -9,6 +9,19 @@
 
 Diving deep into Microservices, Message Driven Architecture, DevOps and Management. Main emphasis on Domain Modeling with FP and OOP. Also I have ambitions: start to publish regularly in my personal dev blog, improve the ability to transfer knowledge to perfection and create own IT Company.
 
+### Profile Summary:
+6+ years of experience in Software Development 
+> * Good experience in designing and developing Cloud-based Web/Client/Server Applications using: 
+> Azure, .NET Technologies and DDD, CQRS, Event Sourcing
+> * Sound knowledge on OOP and FP concepts
+> * Clear knowledge of Architectural Patterns for Distributed Systems and understanding CAP Theorem
+> * Designing and Developing experience DWH/ETL system using Microsoft tools
+> * Experience in setting up: CI/CD pipelines
+> * Experience hiring and coordinating up to 8 people
+> * Agile methodology experience is about 3 years
+
+
+
 #### Sofrware Enginering/Development/Managment Skills
 
  - **Paradigms**: OOP, FP
@@ -40,3 +53,44 @@ Diving deep into Microservices, Message Driven Architecture, DevOps and Manageme
 
 > *The latest version of resume you can see on https://github.com/kogoia/resume*
 
+
+# Jobs / Projects
+
+### Vobi LLC
+   - ERP on the WEB, SAAS (https://angel.co/company/vobi-1)
+
+### Wandio 
+   - TKT - Onlinr Ticketing
+   - SHR 
+   - Captune
+
+### Dolphin Software
+   - MRDT.NET
+   - LoanKeeper
+
+### Alta Software
+   - B6 Core Banking System
+   - SWIFT Integration
+
+### Asseco
+   - DWH Toyota Caucasus
+   - AWMS
+   - AWMS.Logistics
+   
+### EPAM
+   - Learn Digital Platform
+   - Hamilton Group Reinsurance
+
+### Space JSC
+   - Space - Digital Banking
+
+# Competitive Programming
+- [ACM ICPC 2012-2013, NEERC, Georgia Subregional Contest](https://neerc.ifmo.ru/archive/2012/georgia/standings.html)
+- [ACM ICPC 2012-2013, Northeastern European Regional Contest](https://neerc.ifmo.ru/archive/2012/standings.html)
+- [ACM ICPC 2013-2014, NEERC, Georgia Subregional Contest](https://neerc.ifmo.ru/archive/2013/georgia/standings.html)
+- [ACM ICPC 2013-2014, Northeastern European Regional Contest](https://neerc.ifmo.ru/archive/2013/standings.html)
+
+- [Timus Online Judge](https://acm.timus.ru/author.aspx?id=120284&sort=difficulty)
+- [Информатикс](https://informatics.msk.ru/submits/view.php?user_id=16156#1)
+- [Codeforces](https://codeforces.com/submissions/kogoia)
+- [GeOlym](https://geolymp.org/user/profile/kogoia)
