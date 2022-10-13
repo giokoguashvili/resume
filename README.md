@@ -9,7 +9,7 @@
 
 Diving deep into Microservices, Message Driven Architecture, DevOps and Management. Main emphasis on Domain Modeling with FP and OOP. Also I have ambitions: start to publish regularly in my personal dev blog, improve the ability to transfer knowledge to perfection and create own IT Company.
 
-### Profile Summary:
+# Profile Summary:
 6+ years of experience in Software Development 
 > * Good experience in designing and developing Cloud-based Web/Client/Server Applications using: 
 > Azure, .NET Technologies and DDD, CQRS, Event Sourcing
@@ -35,6 +35,44 @@ Diving deep into Microservices, Message Driven Architecture, DevOps and Manageme
  - **DevTools:** Vim/Tmux, Visual Studio, Rider, Resharper, DataGrip, VS Code
  - **Management:** Agile, Scrum, Kanban, Task Oriented Managment 
 
+
+
+
+
+# EXPERIENCE
+
+#### Vobi LLC
+   - ERP on the WEB, SAAS (https://angel.co/company/vobi-1)
+
+#### Wandio 
+   - TKT - Onlinr Ticketing
+   - SHR 
+   - Captune
+
+#### Dolphin Software
+   - MRDT.NET
+   - LoanKeeper
+
+#### Alta Software
+   - B6 Core Banking System
+   - SWIFT Integration
+
+#### Asseco
+   - DWH Toyota Caucasus
+   - AWMS
+   - AWMS.Logistics
+   
+#### EPAM
+   - Learn Digital Platform
+   - Hamilton Group Reinsurance
+
+### Space JSC
+   - Space - Digital Banking
+
+
+
+# EDUCATION
+
 #### Want to learn
 
  - Neural Networks and Deep Learning
@@ -51,40 +89,8 @@ Diving deep into Microservices, Message Driven Architecture, DevOps and Manageme
 * [Functional Programming & Haskell](https://stepik.org/course/75/syllabus) (see also: [Certificate](https://stepik.org/certificate/6b271b1181c9aba4609fa53f15e0ebfcb6210087.pdf), [Solutions](https://github.com/kogoia/HaskellSamples)) - stepik.org 
 * ... [more](https://github.com/kogoia/books)
 
-> *The latest version of resume you can see on https://github.com/kogoia/resume*
 
-
-# Jobs / Projects
-
-### Vobi LLC
-   - ERP on the WEB, SAAS (https://angel.co/company/vobi-1)
-
-### Wandio 
-   - TKT - Onlinr Ticketing
-   - SHR 
-   - Captune
-
-### Dolphin Software
-   - MRDT.NET
-   - LoanKeeper
-
-### Alta Software
-   - B6 Core Banking System
-   - SWIFT Integration
-
-### Asseco
-   - DWH Toyota Caucasus
-   - AWMS
-   - AWMS.Logistics
-   
-### EPAM
-   - Learn Digital Platform
-   - Hamilton Group Reinsurance
-
-### Space JSC
-   - Space - Digital Banking
-
-# Competitive Programming
+#### Competitive Programming
 - [ACM ICPC 2012-2013, NEERC, Georgia Subregional Contest](https://neerc.ifmo.ru/archive/2012/georgia/standings.html)
 - [ACM ICPC 2012-2013, Northeastern European Regional Contest](https://neerc.ifmo.ru/archive/2012/standings.html)
 - [ACM ICPC 2013-2014, NEERC, Georgia Subregional Contest](https://neerc.ifmo.ru/archive/2013/georgia/standings.html)
@@ -94,3 +100,5 @@ Diving deep into Microservices, Message Driven Architecture, DevOps and Manageme
 - [Информатикс](https://informatics.msk.ru/submits/view.php?user_id=16156#1)
 - [Codeforces](https://codeforces.com/submissions/kogoia)
 - [GeOlym](https://geolymp.org/user/profile/kogoia)
+
+> *The latest version of resume you can see on https://github.com/kogoia/resume*
