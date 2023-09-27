@@ -200,7 +200,7 @@ Outsorce company
 `C#` `.NET Framework` `SQL Server` `SignalR` `ASP.NET MVC` `Dapper` `jQuery` `Bootstrap` `Azure` `AWS`
 
 ##
-**[VOBI](https://wellfound.com/company/vobi-1)**
+**[VOBI](https://www.linkedin.com/company/vo-bi/)**
 | Georgia, Tbilisi 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <font color="silver">
@@ -213,10 +213,11 @@ Sep 2012 - June 2016
 On-Site
 </font>
 
-Outsorce company
-- a
-- b
-- c
+ VOBI is a forward-thinking technology company dedicated to revolutionizing business management and accounting practices in small markets, with a primary focus on Georgia
+- Collaborated with the development team to assess the existing WCF service, leading the refactoring effort to transition it to RESTful API endpoints using ServiceStack. This transformation significantly improved the service's accessibility and scalability.
+- Developed a WinForms application, leveraging the powerful capabilities of DevExpress controls, while adhering to the MVVM (Model-View-ViewModel) architectural pattern
+- Utilized SQL Server Profiler and Query Execution Plans to conduct in-depth analysis of database queries and performance metrics
+- ...
   
 `C#` `.NET Framework` `SQL Server` `WCF` `ServiceStack` `DevExpress` `WinForms`
 
